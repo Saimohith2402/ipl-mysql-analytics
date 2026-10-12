@@ -1,0 +1,177 @@
+[
+  {
+    "file": "q01.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q02.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q03.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q04.sql",
+    "export": null,
+    "kind": "WITH"
+  },
+  {
+    "file": "q05.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q06.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q07.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q08.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q09.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q10.sql",
+    "export": null,
+    "kind": "SELECT"
+  },
+  {
+    "file": "q11.sql",
+    "export": null,
+    "kind": "WITH"
+  },
+  {
+    "file": "q12.sql",
+    "export": null,
+    "kind": "WITH"
+  },
+  {
+    "file": "q13.sql",
+    "export": null,
+    "kind": "WITH"
+  },
+  {
+    "file": "q14.sql",
+    "export": null,
+    "kind": "CREATE"
+  },
+  {
+    "file": "q15.sql",
+    "export": null,
+    "kind": "INSERT"
+  },
+  {
+    "file": "q16.sql",
+    "export": null,
+    "kind": "CREATE"
+  },
+  {
+    "file": "q17.sql",
+    "export": null,
+    "kind": "INSERT"
+  },
+  {
+    "file": "q18.sql",
+    "export": null,
+    "kind": "INSERT"
+  },
+  {
+    "file": "q19.sql",
+    "export": null,
+    "kind": "WITH"
+  },
+  {
+    "file": "q20.sql",
+    "export": "batsmen_roi_inflation.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q21.sql",
+    "export": "bowlers_roi_inflation.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q22.sql",
+    "export": "allrounders_roi_inflation.csv",
+    "kind": "WITH"
+  },
+  {
+    "file": "q23.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q24.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q25.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q26.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q27.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q28.sql",
+    "export": null,
+    "kind": "UPDATE"
+  },
+  {
+    "file": "q29.sql",
+    "export": "batting_powerplay.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q30.sql",
+    "export": "batting_powerplay.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q31.sql",
+    "export": "batting_middle.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q32.sql",
+    "export": "batting_death.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q33.sql",
+    "export": "bowling_powerplay.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q34.sql",
+    "export": "bowling_middle.csv",
+    "kind": "SELECT"
+  },
+  {
+    "file": "q35.sql",
+    "export": "bowling_death.csv",
+    "kind": "SELECT"
+  }
+]

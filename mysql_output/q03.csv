@@ -1,0 +1,26 @@
+season,batsman,SUM(`d`.`runs_batsman`)
+2016,V Kohli,973
+2023,Shubman Gill,890
+2022,JC Buttler,863
+2016,DA Warner,848
+2025,B Sai Sudharsan,759
+2013,CH Gayle,720
+2024,V Kohli,741
+2013,MEK Hussey,733
+2023,F du Plessis,730
+2018,KS Williamson,735
+2025,SA Yadav,717
+2019,DA Warner,692
+2018,RR Pant,684
+2016,AB de Villiers,687
+2023,DP Conway,672
+2020,KL Rahul,676
+2025,V Kohli,657
+2014,RV Uthappa,660
+2018,KL Rahul,659
+2025,Shubman Gill,650
+2017,DA Warner,641
+2023,V Kohli,639
+2013,V Kohli,639
+2021,RD Gaikwad,635
+2021,F du Plessis,633

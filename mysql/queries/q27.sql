@@ -1,0 +1,23 @@
+UPDATE `auctions_final` SET `team` = CASE
+  WHEN `team` = 'punjab-kings'
+  THEN 'Punjab Kings'
+  WHEN `team` = 'kolkata-knight-riders'
+  THEN 'Kolkata Knight Riders'
+  WHEN `team` = 'sunrisers-hyderabad'
+  THEN 'Sunrisers Hyderabad'
+  WHEN `team` = 'gujarat-titans'
+  THEN 'Gujarat Titans'
+  WHEN `team` = 'rajasthan-royals'
+  THEN 'Rajasthan Royals'
+  WHEN `team` = 'lucknow-super-giants'
+  THEN 'Lucknow Super Giants'
+  WHEN `team` = 'mumbai-indians'
+  THEN 'Mumbai Indians'
+  WHEN `team` = 'royal-challengers-bengaluru'
+  THEN 'Royal Challengers Bengaluru'
+  WHEN `team` = 'delhi-capitals'
+  THEN 'Delhi Capitals'
+  WHEN `team` = 'chennai-super-kings'
+  THEN 'Chennai Super Kings'
+  ELSE `team`
+END;

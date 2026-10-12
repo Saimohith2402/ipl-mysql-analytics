@@ -1,0 +1,122 @@
+[
+  {
+    "query": "q01.sql",
+    "file": "q01.csv",
+    "rows": 13
+  },
+  {
+    "query": "q02.sql",
+    "file": "q02.csv",
+    "rows": 65
+  },
+  {
+    "query": "q03.sql",
+    "file": "q03.csv",
+    "rows": 25
+  },
+  {
+    "query": "q04.sql",
+    "file": "q04.csv",
+    "rows": 39
+  },
+  {
+    "query": "q05.sql",
+    "file": "q05.csv",
+    "rows": 374
+  },
+  {
+    "query": "q06.sql",
+    "file": "q06.csv",
+    "rows": 13
+  },
+  {
+    "query": "q07.sql",
+    "file": "q07.csv",
+    "rows": 13
+  },
+  {
+    "query": "q08.sql",
+    "file": "q08.csv",
+    "rows": 13
+  },
+  {
+    "query": "q09.sql",
+    "file": "q09.csv",
+    "rows": 14
+  },
+  {
+    "query": "q10.sql",
+    "file": "q10.csv",
+    "rows": 15
+  },
+  {
+    "query": "q11.sql",
+    "file": "q11.csv",
+    "rows": 12
+  },
+  {
+    "query": "q12.sql",
+    "file": "q12.csv",
+    "rows": 9
+  },
+  {
+    "query": "q13.sql",
+    "file": "q13.csv",
+    "rows": 17
+  },
+  {
+    "query": "q19.sql",
+    "file": "q19.csv",
+    "rows": 13
+  },
+  {
+    "query": "q20.sql",
+    "file": "batsmen_roi_inflation.csv",
+    "rows": 179
+  },
+  {
+    "query": "q21.sql",
+    "file": "bowlers_roi_inflation.csv",
+    "rows": 130
+  },
+  {
+    "query": "q22.sql",
+    "file": "allrounders_roi_inflation.csv",
+    "rows": 344
+  },
+  {
+    "query": "q29.sql",
+    "file": "batting_powerplay.csv",
+    "rows": 1009
+  },
+  {
+    "query": "q30.sql",
+    "file": "batting_powerplay.csv",
+    "rows": 1009
+  },
+  {
+    "query": "q31.sql",
+    "file": "batting_middle.csv",
+    "rows": 1507
+  },
+  {
+    "query": "q32.sql",
+    "file": "batting_death.csv",
+    "rows": 1675
+  },
+  {
+    "query": "q33.sql",
+    "file": "bowling_powerplay.csv",
+    "rows": 1286
+  },
+  {
+    "query": "q34.sql",
+    "file": "bowling_middle.csv",
+    "rows": 1407
+  },
+  {
+    "query": "q35.sql",
+    "file": "bowling_death.csv",
+    "rows": 1024
+  }
+]
