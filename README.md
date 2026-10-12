@@ -195,6 +195,6 @@ Even with imperfect data, the model reveals consistent patterns —
 
 ---
 
-**Author:** *Atharva Sharma*
+**Author:** *Daggolu Sai Mohith Reddy*
 **Project:** *IPL Franchise ROI Analytics (Moneyball for Cricket)*
 **Goal:** *Quantifying on-field performance efficiency from auction investments.*
